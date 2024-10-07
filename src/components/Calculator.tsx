@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Scissors, ListRestart } from 'lucide-react';
 import {
   Container,
